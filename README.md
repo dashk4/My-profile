@@ -10,7 +10,7 @@
 I'm a:     
 - **Software Engineer**
 - FullStack Developer
-	
+	    
 ---
 
 ### Languages & Frameworks
