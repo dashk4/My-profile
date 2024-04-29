@@ -7,7 +7,7 @@
     <img width="200" src="https://github.com/frxdude/frxdude/blob/main/me.jpeg">
 </p>
   
-I'm a:     
+I'm a:          
 - **Software Engineer**
 - FullStack Developer
 	    
